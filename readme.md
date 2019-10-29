@@ -15,7 +15,7 @@ optional arguments:
   -out OUT      Specify the output format json or text
 
 Example -  python broken_link.py  -depth 2 -out text -site 'http://www.techradar.com'
-
+It will give you list of broken urls internally in the same base url and externally separately
 
 #Not Added any Unit test and Ci pipline
 
